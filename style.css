@@ -1,1 +1,13 @@
 .logo-style{border-radius: 20px;};
+section{
+    background-image: url(images/retail-avenue-background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+};
+.nav-color{
+    background-color: #416D19;
+}
+a{
+    color: #BFEA7C;
+}
